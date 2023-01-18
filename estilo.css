@@ -106,7 +106,8 @@ footer{
 }
 
 footer > p{
-    padding: 3px 0px 0px 0px;
+    padding: 3  px 0px 0px 0px;
+    text-align: center;
 }
 
 div.frame{
