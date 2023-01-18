@@ -98,11 +98,15 @@ footer{
     background-color: #063D1E;
     color: white;
     text-align: center;
-    height: 20px;
+    height: 25px;
     border: 20px;
-    padding: -2px 51px 36px 47px;
+    padding: -2px 51px 85px 47px;
     margin: -12px -8px -14px -9px;
     outline: 1px 0px 0px 0px;
+}
+
+footer > p{
+    padding: 3px 0px 0px 0px;
 }
 
 div.frame{
